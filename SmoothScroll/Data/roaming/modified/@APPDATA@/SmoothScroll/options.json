@@ -1,0 +1,31 @@
+{
+    "apps": {
+        "C:\\Soft\\Portable TU\\App\\TU64\\Tu.exe": {
+            "name": "C:\\Soft\\Portable TU\\App\\TU64\\Tu.exe (not found)",
+            "path": "C:\\Soft\\Portable TU\\App\\TU64\\Tu.exe"
+        }
+    },
+    "def": {
+        "accelerationDefault": false,
+        "accelerationDelta": 70.0,
+        "accelerationMax": 7.0,
+        "animationTime": 360.0,
+        "enabled": true,
+        "horizontalShiftKey": true,
+        "horizontalSmoothing": true,
+        "linesToScroll": 1.0,
+        "name": "",
+        "pulseAlgorithm": true,
+        "pulseNormalize": 1.0,
+        "pulseScale": 3.0,
+        "reverseDirection": false,
+        "stepSize": 120.0
+    },
+    "global": {
+        "globalEnabled": true,
+        "launchOnLogin": false,
+        "showExitNote": true,
+        "showMenuBarIcon": true,
+        "showMinimizeNote": false
+    }
+}
