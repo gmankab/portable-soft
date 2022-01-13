@@ -1,1 +1,1 @@
-## [SmoothScroll](SmoothScroll/readme.md)
+## [SmoothScroll](SmoothScroll)
