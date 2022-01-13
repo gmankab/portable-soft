@@ -1,4 +1,5 @@
 # SmoothScroll portable
+## [Download](https://github.com/gmankab/portable-soft/releases/download/SmoothScroll/SmoothScroll-Portable.zip)
 
 This is not a cracked SmoothScroll,
 the file is not modified.
@@ -13,3 +14,5 @@ and use the trial version indefinitely.
 
 This is  not SmoothScroll repack
 and not SmoothScroll crack.
+
+Also, the program is disabled access to the Internet, so it will not be able to automatically update.
