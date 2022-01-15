@@ -2,7 +2,7 @@
 ## [Скачать](SmoothScroll.zip)
 ## [english readme file](readme.md)
 
-## Для запуска запустите [start.exe](start.exe)
+## Для запуска программы запустите [start.exe](start.exe)
 ## Для добавления файла в автозагрузку надо сделать ярлык на [start.exe](start.exe) и поместить его в `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`
 ## Если добавить его в автозагрузку любым другим способом, программа не запустится.
 
