@@ -1,7 +1,7 @@
 # SmoothScroll portable
 ## [Download](https://github.com/gmankab/portable-soft/releases/download/SmoothScroll/SmoothScroll-Portable.zip)
 
-# To start run [start.exe](start.exe) or [start.bat](start.bat) or [start.vbs](start.vbs)
+## To start run [start.exe](start.exe) or [start.bat](start.bat) or [start.vbs](start.vbs)
 
 
 This is not a cracked SmoothScroll,
