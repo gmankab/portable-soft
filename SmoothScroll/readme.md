@@ -1,14 +1,16 @@
 # SmoothScroll portable
 ## [Download](SmoothScroll.zip)
 
-## To start run [start.exe](start.exe) or [start.bat](start.bat) or [start.vbs](start.vbs)
+## To start run [start.exe](start.exe)
+## To add file to autorun you must make shortcut to [start.exe](start.exe) and put it to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`
+## If you add it to startup in any other way, the program will not start.
 
 
 This is not a cracked SmoothScroll,
 the file is not modified.
 The only change made is that the program is made portable.
 
-The start.exe or start.bat or start.vbs files resets the license file
+The [start.exe](start.exe) file resets the license file
 and then launches the program,
 so that the 21-day trial period starts again,
 while all settings are saved.
