@@ -1,5 +1,6 @@
 # SmoothScroll portable
 ## [Download](SmoothScroll.zip)
+## [russian readme file](readmeRU.md)
 
 ## To start run [start.exe](start.exe)
 ## To add file to autorun you must make shortcut to [start.exe](start.exe) and put it to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`
